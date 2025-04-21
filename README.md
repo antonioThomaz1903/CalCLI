@@ -66,5 +66,5 @@ Make sure to update tests as appropriate.
 ## 📄 License
 This project is licensed under the MIT License.
 
-##👨‍💻 Author
+## 👨‍💻 Author
 Made with ❤️ by @antonioThomaz1903
